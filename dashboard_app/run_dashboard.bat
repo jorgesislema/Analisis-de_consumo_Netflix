@@ -1,6 +1,0 @@
-@echo off
-echo Instalando dependencias para el Dashboard de Netflix...
-pip install -r requirements.txt
-echo.
-echo Ejecutando aplicacion...
-python app.py
