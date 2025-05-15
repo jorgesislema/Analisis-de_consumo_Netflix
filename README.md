@@ -5,14 +5,34 @@ Este proyecto analiza los datos de uso de Netflix provenientes de un usuario, co
 [![GitHub stars](https://img.shields.io/github/stars/tuusuario/Analisis-de_consumo_Netflix?style=social)](https://github.com/tuusuario/Analisis-de_consumo_Netflix/stargazers)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-<p align="center">
-  <img src="https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja%201.jpg?raw=true" width="400"/>
-  <img src="https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja2.jpg?raw=true" width="400"/>
-  <img src="https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja3.jpg?raw=true" width="400"/>
-  <img src="https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja4.jpg?raw=true" width="400"/>
-  <img src="https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja5.jpg?raw=true" width="400"/>
-</p>
+## 🖼️ Vista Previa del Dashboard
 
+A continuación puedes ver una muestra de las distintas páginas del dashboard interactivo desarrollado en Power BI:
+
+### Hoja 1: KPI Tiempo de Visualización
+![Hoja 1](https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja1.jpg?raw=true)
+
+### Hoja 2: Calidad Promedio según Usuarios (TMDb)
+![Hoja 2](https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja2.jpg?raw=true)
+
+### Hoja 3: Visualización por Día, Mes y Votos
+![Hoja 3](https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja3.jpg?raw=true)
+
+### Hoja 4: Medición de Géneros
+![Hoja 4](https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja4.jpg?raw=true)
+
+### Hoja 5: Nube de Géneros y Conclusiones
+![Hoja 5](https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja5.jpg?raw=true)
+
+---
+
+## 📥 Descargar el Dashboard Interactivo (.pbix)
+
+Puedes descargar el archivo completo del dashboard de Power BI aquí:
+
+👉 [**Descargar Analisis_Netflix.pbix**](https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/Analisis_Netflix.pbix?raw=true)
+
+> Contiene todas las visualizaciones, relaciones de datos y medidas DAX utilizadas en el análisis.
 ## 🌟 ¿Te gusta este proyecto?
 
 Si encuentras útil este proyecto para analizar tus propios datos de Netflix o aprender sobre análisis de datos, ¡regálanos una estrella en GitHub! Tu apoyo nos motiva a seguir mejorando.
