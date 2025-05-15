@@ -1,0 +1,8 @@
+Este archivo es un marcador de posición para la imagen de vista previa del dashboard.
+
+Para usar el README completo:
+1. Reemplaza este archivo con una captura de pantalla real de tu dashboard de Power BI
+2. Asegúrate de que la imagen se llame "dashboard_preview.png"
+3. La imagen aparecerá automáticamente en la parte superior del README
+
+Si no tienes una captura de pantalla disponible, simplemente actualiza el README.md para quitar la referencia a la imagen.
