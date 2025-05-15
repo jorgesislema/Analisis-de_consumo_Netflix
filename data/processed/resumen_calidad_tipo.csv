@@ -1,7 +1,7 @@
-Tipo_Medio_TMDb,Calidad,Cantidad
-movie,Alta,9
-movie,Baja,88
-movie,Media,457
-tv,Alta,568
-tv,Baja,26
-tv,Media,708
+Tipo_Medio_TMDb,Calidad,Conteo
+movie,Alta,32
+movie,Media,84
+movie,Baja,21
+tv,Alta,120
+tv,Media,57
+tv,Baja,15
