@@ -5,7 +5,13 @@ Este proyecto analiza los datos de uso de Netflix provenientes de un usuario, co
 [![GitHub stars](https://img.shields.io/github/stars/tuusuario/Analisis-de_consumo_Netflix?style=social)](https://github.com/tuusuario/Analisis-de_consumo_Netflix/stargazers)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-![Netflix Analytics Dashboard]([docs/dashboard_preview.png](https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja%201.jpg?raw=true))
+<p align="center">
+  <img src="https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja%201.jpg?raw=true" width="400"/>
+  <img src="https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja2.jpg?raw=true" width="400"/>
+  <img src="https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja3.jpg?raw=true" width="400"/>
+  <img src="https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja4.jpg?raw=true" width="400"/>
+  <img src="https://github.com/jorgesislema/Analisis-de_consumo_Netflix/blob/main/power_bi/hoja5.jpg?raw=true" width="400"/>
+</p>
 
 ## 🌟 ¿Te gusta este proyecto?
 
